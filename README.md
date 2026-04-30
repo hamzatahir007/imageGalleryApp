@@ -111,8 +111,8 @@ Two tables — `users` and `images`. See `database_schema.sql` for full SQL incl
 
 ## 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/hamzatahir007/imageGalleryApp.git
+cd imageGalleryApp
 npm install
 
 ## Run the App
